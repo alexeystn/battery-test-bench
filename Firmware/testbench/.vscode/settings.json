@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "cstdint": "c",
+    "optional": "c",
+    "system_error": "c",
+    "array": "c",
+    "functional": "c",
+    "tuple": "c",
+    "type_traits": "c",
+    "utility": "c",
+    "task.h": "c",
+    "stdio.h": "c",
+    "compare": "c",
+    "ads1115.h": "c",
+    "esp_log.h": "c",
+    "freertos.h": "c",
+    "adc.h": "c",
+    "esp_timer.h": "c",
+    "gpio.h": "c",
+    "pwm.h": "c",
+    "ports.h": "c"
+  }
+}
